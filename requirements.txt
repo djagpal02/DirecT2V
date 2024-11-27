@@ -1,0 +1,9 @@
+diffusers==0.19.3
+transformers
+imageio[ffmpeg]
+accelerate
+opencv-python
+pytorch-msssim
+lpips
+scikit-image
+
